@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 41ffa4c5967d74a58c3bf108a0691a64
+  gameAnalyticsIosSecretKey: b55b0180edb303b7ee9cfc4eae4278795bc81ddc
+  gameAnalyticsAndroidGameKey: 9f525802043ee3a07df9e7b7049a12fc
+  gameAnalyticsAndroidSecretKey: 5ff5af83d8e54692e206d67fbb25e64e427b6d70
+  facebookAppId: 656296506658661
+  facebookClientToken: 9734215e1116e33922d3d3f0084124ca
+  adjustIOSToken: balg5ywm1udc
+  adjustAndroidToken: 6f37h6yekv40
+  EditorIdfa: 040d6127-3afd-45dd-bbfe-d31840f9b809
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: Hide Games
+  privacyPolicyURL: https://www.iubenda.com/privacy-policy/27177739
+  developerContactEmail: gaming@ninjapromo.io

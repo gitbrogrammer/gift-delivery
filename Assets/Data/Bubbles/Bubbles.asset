@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a68a438ed2f8f45df9e9f38364768d4a, type: 3}
+  m_Name: Bubbles
+  m_EditorClassIdentifier: 
+  bubbleConfigs:
+  - colorType: 2
+    prefab: {fileID: 6464794473059150490, guid: 05e23329a62a14c9d8f6850806d7dc32,
+      type: 3}
+  - colorType: 3
+    prefab: {fileID: 6464794473059150490, guid: 9551f290db74243ca90eea8a5aae4eb4,
+      type: 3}
+  - colorType: 6
+    prefab: {fileID: 6464794473059150490, guid: 8ffa19738af8544bc8719258faea6ce7,
+      type: 3}
+  - colorType: 7
+    prefab: {fileID: 6464794473059150490, guid: 7544db2eed56f4601969634362c74395,
+      type: 3}
+  - colorType: 4
+    prefab: {fileID: 6464794473059150490, guid: 9d8cd4973738a4c9abc15cce03ee652d,
+      type: 3}
+  - colorType: 8
+    prefab: {fileID: 6464794473059150490, guid: 92c766120ca6e41ea8d66b9da9db6de2,
+      type: 3}
+  - colorType: 9
+    prefab: {fileID: 6464794473059150490, guid: fc65451ce69fe4a6fb395cdd1c6f6c53,
+      type: 3}
+  - colorType: 5
+    prefab: {fileID: 6464794473059150490, guid: 75d5c4f53f128491d8361bda67ca744c,
+      type: 3}
+  specialBubbleConfigs:
+  - specialBubbleType: 2
+    prefab: {fileID: 6464794473059150490, guid: f740e53d7a2a54d978b26cabad6b88d9,
+      type: 3}
+  - specialBubbleType: 1
+    prefab: {fileID: 6464794473059150490, guid: 21b5133711cb44a9f9cdb1e7c588e637,
+      type: 3}

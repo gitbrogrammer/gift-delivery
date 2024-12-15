@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7420452776099729192
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7420452776099729195}
+  - component: {fileID: 3752763638041349314}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7420452776099729195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7420452776099729192}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3752763638041349314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7420452776099729192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c479580a69f2cbf4ea36c809b7384101, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  globalSettingsScriptableObject: {fileID: 11400000, guid: 826380038e6540f498d6d0aaa13071ba,
+    type: 2}
+  managers:
+  - manager: {fileID: 661438504843177496, guid: 137abf1f2f9f3d948a8468e45614d956,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 7780927695052357086, guid: 237e116c18503e04e8b3ff8ffc68dc31,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 3928180040588978893, guid: 7799e97918584654ba5345513fee4d2e,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 8573480541785570407, guid: c4f23c15a4d3a6f46ba95beff64c2964,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 7345344958359403415, guid: 90ac471ec495f4190813118dc04b1a1c,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 3935521318893512527, guid: 2d2102174ec589648b85b59bdac59f5e,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 2604067672987435739, guid: f0e2b718e6c927e4b9699dce2e601245,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 8573464560424359675, guid: c7c3183f0fee96146815ec50477e008f,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 7977104053061657860, guid: 67274368bfe4c324fa28cdcacd82ed03,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 9141377735733226284, guid: 33e7e86dc083efe4a875e25b26604bfe,
+      type: 3}
+    onRootSpawn: 0
+  - manager: {fileID: 7861620081447307730, guid: f90622e2f92fb59449236387b9917648,
+      type: 3}
+    onRootSpawn: 1
